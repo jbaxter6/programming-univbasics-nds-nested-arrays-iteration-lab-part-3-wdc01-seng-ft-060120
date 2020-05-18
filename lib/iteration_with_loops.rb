@@ -27,13 +27,9 @@ def join_nested_strings(src)
 
 row_index += 1
 
-
-
-
+end
  
- end
- 
- final_string = final_array.join(' ')
+final_string = final_array.join(' ')
 
 final_string
  end
